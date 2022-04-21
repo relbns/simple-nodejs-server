@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# IDE
+.vscode
+.idea
+*.iml
+out
+gen
+
+# Dependency directories
+node_modules/
+jspm_packages/
+

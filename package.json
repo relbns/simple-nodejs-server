@@ -1,0 +1,20 @@
+{
+  "name": "simple-nodejs-server",
+  "version": "1.0.0",
+  "description": "Demo for a simple http server that returns html response",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relbns/simple-nodejs-server.git"
+  },
+  "keywords": [],
+  "author": "Ariel Benesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/relbns/simple-nodejs-server/issues"
+  },
+  "homepage": "https://github.com/relbns/simple-nodejs-server#readme"
+}
